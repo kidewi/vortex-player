@@ -1,5 +1,6 @@
+require('dotenv').config();
+
 module.exports = {
-    MONGO_URI: 'your_mongodb_connection_string',
-    JWT_SECRET: 'your_jwt_secret_key'
-  };
-  
+  MONGO_URI: process.env.MONGO_URI,
+  JWT_SECRET: process.env.JWT_SECRET,
+};

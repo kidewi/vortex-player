@@ -11,11 +11,14 @@ app.use(express.json());
 
 mongoose.connect(MONGO_URI, {
   useNewUrlParser: true,
-  useUnifiedTopology: true
+  useUnifiedTopology: true,
 }).then(() => console.log('MongoDB connected'))
-  .catch(err => console.log(err));
+  .catch((err) => console.log(err));
 
+// Register auth routes
 app.use('/api/auth', authRoutes);
+
+// Register music routes
 app.use('/api/music', musicRoutes);
 
 const PORT = process.env.PORT || 5000;
