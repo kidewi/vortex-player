@@ -9,7 +9,7 @@ Vortex Music Player is a sleek and modern web application that allows users to p
 - **Music Playback**: Play music files directly from the application.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Modern UI**: Sleek and user-friendly interface similar to Spotify.
-- **To be implemented** - Music Library Management, User Authentication
+- **To be implemented**: Music Library Management, User Authentication
 
 ## Technologies Used
 
