@@ -107,45 +107,6 @@ cd vortex-player
    - Your uploaded music files will be listed in the Music Library.
    - Click on any music file to start playback.
 
-## File Structure
-
-vortex-player/
-│
-├── backend/
-│   ├── controllers/
-│   │   └── authController.js
-│   │   └── musicController.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   └── userModel.js
-│   │   └── musicModel.js
-│   ├── routes/
-│   │   └── authRoutes.js
-│   │   └── musicRoutes.js
-│   ├── .env
-│   ├── config.js
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── Login.js
-│   │   │   └── Signup.js
-│   │   │   └── MusicLibrary.js
-│   │   ├── styles/
-│   │   │   └── tailwind.css
-│   │   ├── App.js
-│   │   ├── index.js
-│   ├── .env
-│   ├── tailwind.config.js
-│   ├── package.json
-│
-└── README.md
-
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
