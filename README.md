@@ -31,7 +31,7 @@ Vortex Music Player is a sleek and modern web application that allows users to p
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vortex-player.git
+git clone https://github.com/kidewi/vortex-player.git
 cd vortex-player
 ```
 
