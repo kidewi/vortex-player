@@ -3,7 +3,7 @@
 Vortex Music Player is a sleek and modern web application that allows users to play music files from their local files and maintain a library of their local music files. The application supports all common music file types and uses a backend database to store local file information for each user. The project follows modern security best practices for user authentication and data management.
 
 <div align="center">
-  <img src="./images/image.png" alt="Vortex Music Player" width="400" height="400" />
+  <img src="./misc/img/vortex.png" alt="Vortex Music Player" width="400" height="400" />
 </div>\\
 
 ## Features
