@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./misc/img/vortex.png" alt="Vortex Music Player" width="850" height="433" />
+  <img src="./misc/img/vortex1.png" alt="Vortex Music Player" width="850" height="433" />
 </div>
 
 # Vortex Music Player
